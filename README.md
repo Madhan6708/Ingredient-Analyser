@@ -5,6 +5,12 @@ Technologies Used:
 ✔️ OpenPyXL (to read harmful ingredient dataset)
 ✔️ Wikipedia API (for ingredient definitions)
 ✔️ Streamlit (to build the web interface)
+
+
+
+
+
+
 How It Works?:
 1️⃣ Select input method: 'Capture from Camera' or 'Upload Image'
 2️⃣ If 'Capture from Camera' is selected, the live camera feed appears
